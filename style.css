@@ -1,0 +1,57 @@
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+    padding:16px;
+    margin: 0;
+}
+
+
+body > header > nav > li > a {
+    color: white;
+}
+
+body {
+    margin: 0;
+}
+
+body > main > article {
+    margin: auto;
+    width: 70%;
+}
+
+body > main > h2 > {
+    margin: auto;
+    width: 70%;
+}
+
+body > footer {
+    background-color: dodgerblue;
+    margin: 0;
+    padding: 1px;
+    text-align: center;
+    color: white;
+}
+
+body > header > nav > li {
+    list-style: none;
+}
+#comtbox {
+    width: 100%;
+}
+
+body > main > nav > form {
+    padding: 0px;
+}
+
+body > header > nav {
+    padding-left: 25px;
+}
+
+.commentdiv {
+    margin-bottom: 25px;
+}
+
+.commentdiv input {
+    float: right;
+}
